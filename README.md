@@ -23,3 +23,5 @@ This repository contains various small projects and scripts exploring Python lib
 **`hugging-face-stuff.py`** - Exploration of Hugging Face datasets and models.
 
 **`city_distance_graph.py`** - Graph-based analysis of city distances.
+
+**`running-stats.py`** - Reads running data from CSV and displays various performance charts.
